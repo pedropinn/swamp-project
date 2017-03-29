@@ -18,4 +18,4 @@ This is not to say that Web Starter Kit cannot be used in browsers older than th
 ## License
 
 MIT  
-Copyright 2015 Charles Araújo da Silva
+Copyright 2017 Charles Araújo da Silva
